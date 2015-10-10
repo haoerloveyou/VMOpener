@@ -3,8 +3,8 @@ Name: Cmemorynew
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
-Maintainer: JailCatTean
-Author: JailCatTean
+Maintainer: JailCatTeam
+Author: JailCatTeam
 Section: Tweaks
-Version: 0.0.1-17
+Version: 0.0.1-29
 Installed-Size: 72
