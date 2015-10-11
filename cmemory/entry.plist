@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = cmemory;
+	cell = PSLinkCell;
+	detail = cmemoryListController;
+	icon = cmemory.png;
+	isController = 1;
+	label = cmemory;
+    };
+}
