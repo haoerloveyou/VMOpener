@@ -13,17 +13,17 @@
 
 
 
--(NSString*) headerText { return @"Cmemory"; }
+-(NSString*) headerText { return @"VMOpener"; }
 -(NSString*) headerSubText { return @""; }
 
 
--(NSString*) customTitle { return @"cmemory"; }
+-(NSString*) customTitle { return @"VMOpener"; }
 -(NSArray*) customSpecifiers
 {
     return @[
              @{
                  @"cell": @"PSGroupCell",
-                 @"label": @"Cmemory Settings"
+                 @"label": @"VMOpener Settings"
                  },
              @{
                  @"cell": @"PSSwitchCell",
